@@ -4,9 +4,9 @@ Just hobby
 
 # Hot Keys
 
-|			  | functions	|combination	|
-|-------------|-------------|-------------|
-|
+|category	  	 | function	   |combination  |
+|----------------|-------------|-------------|
+|select&transform|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTk0OTc0OCwtMTM3NDU3MDYxN119
+eyJoaXN0b3J5IjpbMjA1MjE3Njk0OCwtMTM3NDU3MDYxN119
 -->
